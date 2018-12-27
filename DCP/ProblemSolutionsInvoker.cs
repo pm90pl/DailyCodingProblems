@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DCP
 {
-    class Program
+    class ProblemSolutionsInvoker
     {
         static void Main(string[] args)
         {
