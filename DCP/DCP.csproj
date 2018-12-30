@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DailyCodingProblem.cs" />
+    <Compile Include="Problem1ListOfNumbersAndKGetNumbersSumUpToK.cs" />
     <Compile Include="ProblemSolutionsInvoker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
